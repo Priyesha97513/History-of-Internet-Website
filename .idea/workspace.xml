@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="21436e21-7c4d-4b5a-a63a-4f7d27fd0559" />
+  <component name="ProjectId" id="1ic87VZaCRGh80mzXOe5Lx6y7O7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="" />
+      <created>1602195385835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602195385835</updated>
+      <workItem from="1602195415281" duration="177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="515" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196035824" />
+  </component>
+</project>
