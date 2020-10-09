@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Task: end page image and source for domainnamesicann included on domainnamesicann page" />
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Task: nav bar index html name fixed for  domainnamesicann page">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="domainnameicann-explanation" />
+        <entry key="$PROJECT_DIR$" value="script-source-domainnameicann" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="10236000" />
+      <workItem from="1602195415281" duration="10557000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Commit to master">
       <created>1602196279692</created>
@@ -207,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602266018769</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Feature: Script source(end) for domainnamesicann included on domainnamesicann page">
+      <created>1602266352459</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1602266352459</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Task: nav bar index html name fixed for  domainnamesicann page">
+      <created>1602266550205</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1602266550205</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +252,9 @@
     <MESSAGE value="BugFix: correct image folder included within paragraphs for domainnamesicann html" />
     <MESSAGE value="Feature: explanation along with source for image domainnamesicann included on domainnamesicann" />
     <MESSAGE value="Task: end page image and source for domainnamesicann included on domainnamesicann page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: end page image and source for domainnamesicann included on domainnamesicann page" />
+    <MESSAGE value="Feature: Script source(end) for domainnamesicann included on domainnamesicann page" />
+    <MESSAGE value="Task: nav bar index html name fixed for  domainnamesicann page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: nav bar index html name fixed for  domainnamesicann page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -247,9 +265,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602266021774">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602266565550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602266021774" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602266565550" />
   </component>
 </project>
