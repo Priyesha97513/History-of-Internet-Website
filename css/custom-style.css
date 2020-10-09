@@ -10,7 +10,7 @@
     text-decoration: none;
 }
 .bg-image-custom{
-    background: url("../project-mockup-601-IMAGES/bg3.PNG") no-repeat center center fixed;
+    background: url("../images-folder/bg3.PNG") no-repeat center center fixed;
     background-size: cover;
     height: 100%;
     position: relative;
