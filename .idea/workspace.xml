@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature: index.html file created">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature: Title and Header included on index.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="1964000" />
+      <workItem from="1602195415281" duration="2804000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Commit to master">
       <created>1602196279692</created>
@@ -68,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602197154510</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feature: Title and Header included on index.html">
+      <created>1602197674317</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602197674317</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,7 +82,8 @@
     <MESSAGE value="Feature: Commit to master" />
     <MESSAGE value="Feature: README.MD file updated" />
     <MESSAGE value="Feature: index.html file created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: index.html file created" />
+    <MESSAGE value="Feature: Title and Header included on index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Title and Header included on index.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -89,9 +94,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602197159060">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602197678845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602197159060" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602197678845" />
   </component>
 </project>
