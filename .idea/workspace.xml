@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature: DNS definition included in DNS page">
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Task and Feature: DNS image and source included on DNS webpage">
       <change beforePath="$PROJECT_DIR$/DNS.html" beforeDir="false" afterPath="$PROJECT_DIR$/DNS.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="defination-DNS" />
+        <entry key="$PROJECT_DIR$" value="bugfix-definition-DNS" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="14903000" />
+      <workItem from="1602195415281" duration="15217000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Commit to master">
       <created>1602196279692</created>
@@ -314,15 +314,27 @@
       <option name="project" value="LOCAL" />
       <updated>1602271384730</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="BugFix: DNS definition fixed included in DNS page">
+      <created>1602271705512</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1602271705512</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Task and Feature: DNS image and source included on DNS webpage">
+      <created>1602271990638</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1602271990638</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task: image and index page related script added" />
-    <MESSAGE value="Feature: Domain-name-icann file included" />
     <MESSAGE value="Feature: Domain-name-icann file header included" />
     <MESSAGE value="Task: Domain-name-icann navigation bar included" />
     <MESSAGE value="Task: Domain-name defination included" />
@@ -346,7 +358,9 @@
     <MESSAGE value="Feature: title,heaer, and bg included in DNS page" />
     <MESSAGE value="Task: Nav-bar included in DNS page" />
     <MESSAGE value="Feature: DNS definition included in DNS page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: DNS definition included in DNS page" />
+    <MESSAGE value="BugFix: DNS definition fixed included in DNS page" />
+    <MESSAGE value="Task and Feature: DNS image and source included on DNS webpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task and Feature: DNS image and source included on DNS webpage" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -357,9 +371,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602271387964">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602271993323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602271387964" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602271993323" />
   </component>
 </project>
