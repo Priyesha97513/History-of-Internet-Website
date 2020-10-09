@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Task: nav-bar included on http/s included">
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature: explanation for http/s is included on http/s page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTTP&amp;HTTPSprotocols.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP&amp;HTTPSprotocols.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="navbar-http-https" />
+        <entry key="$PROJECT_DIR$" value="image-imgsrc-http-https" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="17649000" />
+      <workItem from="1602195415281" duration="18331000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Commit to master">
       <created>1602196279692</created>
@@ -371,16 +370,34 @@
       <option name="project" value="LOCAL" />
       <updated>1602274100209</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Feature: definitions for http and https included in http&amp;https page">
+      <created>1602274620597</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1602274620597</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Task: image and image source for http/s included on http/s page">
+      <created>1602274883339</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1602274883339</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Feature: explanation for http/s is included on http/s page">
+      <created>1602275061836</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1602275061836</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feature: explanation along with source for image domainnamesicann included on domainnamesicann" />
-    <MESSAGE value="Task: end page image and source for domainnamesicann included on domainnamesicann page" />
-    <MESSAGE value="Feature: Script source(end) for domainnamesicann included on domainnamesicann page" />
     <MESSAGE value="Task: nav bar index html name fixed for  domainnamesicann page" />
     <MESSAGE value="Task: nav bar index html name fixed for  domainnamesicann page(previous bugfix was for index page and this is for domainnameicann page)" />
     <MESSAGE value="Feature: About this site blank webpage included" />
@@ -403,7 +420,10 @@
     <MESSAGE value="Feature: DNS webpage included" />
     <MESSAGE value="Feature: title,header,and bg included for http/https page" />
     <MESSAGE value="Task: nav-bar included on http/s included" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: nav-bar included on http/s included" />
+    <MESSAGE value="Feature: definitions for http and https included in http&amp;https page" />
+    <MESSAGE value="Task: image and image source for http/s included on http/s page" />
+    <MESSAGE value="Feature: explanation for http/s is included on http/s page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: explanation for http/s is included on http/s page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -414,9 +434,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602274102375">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602275064647">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602274102375" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602275064647" />
   </component>
 </project>
