@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature and task: end image and img src for ipaddress, packets, and router included for ip-p-r page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature: W3ChtmlCSS page included" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="explanation-ip-p-r" />
+        <entry key="$PROJECT_DIR$" value="script-src-ip-p-r" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,21 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="20613000" />
-    </task>
-    <task id="LOCAL-00011" summary="Task: Navigation bar inclued on index html file">
-      <created>1602260413383</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1602260413383</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Task: Jumbotron section included on index html file">
-      <created>1602260824357</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1602260824357</updated>
+      <workItem from="1602195415281" duration="21020000" />
     </task>
     <task id="LOCAL-00013" summary="Task: image and index page related script added">
       <created>1602261153665</created>
@@ -391,15 +375,27 @@
       <option name="project" value="LOCAL" />
       <updated>1602277435730</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="task: script src for ipaddress, packets, and router included for ip-p-r page">
+      <created>1602277604959</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1602277604959</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Feature: W3ChtmlCSS page included">
+      <created>1602277779713</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1602277779714</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feature: DNS html page(blank) created" />
-    <MESSAGE value="Feature: title,heaer, and bg included in DNS page" />
     <MESSAGE value="Task: Nav-bar included in DNS page" />
     <MESSAGE value="Feature: DNS definition included in DNS page" />
     <MESSAGE value="BugFix: DNS definition fixed included in DNS page" />
@@ -423,7 +419,9 @@
     <MESSAGE value="Task: image and image source for ipaddress, packets, and router included for ip-p-r page" />
     <MESSAGE value="Feature: explanation for ipaddress, packets, and router included for ip-p-r page" />
     <MESSAGE value="Feature and task: end image and img src for ipaddress, packets, and router included for ip-p-r page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature and task: end image and img src for ipaddress, packets, and router included for ip-p-r page" />
+    <MESSAGE value="task: script src for ipaddress, packets, and router included for ip-p-r page" />
+    <MESSAGE value="Feature: W3ChtmlCSS page included" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: W3ChtmlCSS page included" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -434,9 +432,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602277438211">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602277785559">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602277438211" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602277785559" />
   </component>
 </project>
