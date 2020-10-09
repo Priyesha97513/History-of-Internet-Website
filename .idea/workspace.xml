@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature: explanation for http/s is included on http/s page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Task: script source included for http/s page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="image-imgsrc-http-https" />
+        <entry key="$PROJECT_DIR$" value="end-image-src-http-https" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,21 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="18331000" />
-    </task>
-    <task id="LOCAL-00001" summary="Feature: Commit to master">
-      <created>1602196279692</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1602196279692</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Feature: README.MD file updated">
-      <created>1602196825049</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1602196825049</updated>
+      <workItem from="1602195415281" duration="18647000" />
     </task>
     <task id="LOCAL-00003" summary="Feature: index.html file created">
       <created>1602197154510</created>
@@ -391,15 +375,27 @@
       <option name="project" value="LOCAL" />
       <updated>1602275061836</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Task: end page image and image source included">
+      <created>1602275365256</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1602275366377</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Task: script source included for http/s page">
+      <created>1602275544296</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1602275544299</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task: nav bar index html name fixed for  domainnamesicann page" />
-    <MESSAGE value="Task: nav bar index html name fixed for  domainnamesicann page(previous bugfix was for index page and this is for domainnameicann page)" />
     <MESSAGE value="Feature: About this site blank webpage included" />
     <MESSAGE value="Feature: About this site header-title-bg included" />
     <MESSAGE value="Task: About this site nav bar included" />
@@ -423,7 +419,9 @@
     <MESSAGE value="Feature: definitions for http and https included in http&amp;https page" />
     <MESSAGE value="Task: image and image source for http/s included on http/s page" />
     <MESSAGE value="Feature: explanation for http/s is included on http/s page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: explanation for http/s is included on http/s page" />
+    <MESSAGE value="Task: end page image and image source included" />
+    <MESSAGE value="Task: script source included for http/s page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: script source included for http/s page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -434,9 +432,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602275064647">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602275546487">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602275064647" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602275546487" />
   </component>
 </project>
