@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Task: nav-bar included for ipaddresspacketsrouting page">
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="bugfix: definition error for ipaddress, packets, and router included for ip-p-r page">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IPaddressesPacketsRouting.html" beforeDir="false" afterPath="$PROJECT_DIR$/IPaddressesPacketsRouting.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="nav-bar-ip-r-p" />
+        <entry key="$PROJECT_DIR$" value="definitions-ip-p-r" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,21 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="19576000" />
-    </task>
-    <task id="LOCAL-00006" summary="Feature: CSS custom style file information code details included">
-      <created>1602257788354</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1602257788354</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Tasks: Images relate to this project included in images folder">
-      <created>1602258193167</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1602258193167</updated>
+      <workItem from="1602195415281" duration="19899000" />
     </task>
     <task id="LOCAL-00008" summary="BugFix: images folder name fixed in bg custom section">
       <created>1602258563837</created>
@@ -391,15 +378,27 @@
       <option name="project" value="LOCAL" />
       <updated>1602276184478</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Feature: definitions for ipaddress, packets, and router included for ip-p-r page">
+      <created>1602276539026</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1602276539027</updated>
+    </task>
+    <task id="LOCAL-00056" summary="bugfix: definition error for ipaddress, packets, and router included for ip-p-r page">
+      <created>1602276811495</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1602276811495</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task and Feature: both image and information (about-me) included on about this site page" />
-    <MESSAGE value="Task and Feature: both image and information (about-the-site) included on about this site page" />
     <MESSAGE value="BugFix: fixed index1 to index on nav tab in aboutthissite page" />
     <MESSAGE value="feature: script source included for about this site page" />
     <MESSAGE value="feature and task : both image and image source included on about this site page" />
@@ -423,7 +422,9 @@
     <MESSAGE value="Feature: ipaddress-packets-routing html page included" />
     <MESSAGE value="Feature: title-header-bg included for ipaddresspacketsrouting page" />
     <MESSAGE value="Task: nav-bar included for ipaddresspacketsrouting page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: nav-bar included for ipaddresspacketsrouting page" />
+    <MESSAGE value="Feature: definitions for ipaddress, packets, and router included for ip-p-r page" />
+    <MESSAGE value="bugfix: definition error for ipaddress, packets, and router included for ip-p-r page" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugfix: definition error for ipaddress, packets, and router included for ip-p-r page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -434,9 +435,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602276186745">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602276813957">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602276186745" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602276813957" />
   </component>
 </project>
