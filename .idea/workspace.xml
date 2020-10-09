@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="BugFix: images folder name fixed in bg custom section">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="BugFix: images folder name fixed in bg custom section name BUGFIX2">
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="images-folder" />
+        <entry key="$PROJECT_DIR$" value="bug-fix-2-imagefolderCSS" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="5110000" />
+      <workItem from="1602195415281" duration="5570000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Commit to master">
       <created>1602196279692</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602258563837</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="BugFix: images folder name fixed in bg custom section name BUGFIX2">
+      <created>1602259676418</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602259676418</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +126,8 @@
     <MESSAGE value="Feature: CSS custom style file information code details included" />
     <MESSAGE value="Tasks: Images relate to this project included in images folder" />
     <MESSAGE value="BugFix: images folder name fixed in bg custom section" />
-    <option name="LAST_COMMIT_MESSAGE" value="BugFix: images folder name fixed in bg custom section" />
+    <MESSAGE value="BugFix: images folder name fixed in bg custom section name BUGFIX2" />
+    <option name="LAST_COMMIT_MESSAGE" value="BugFix: images folder name fixed in bg custom section name BUGFIX2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -130,9 +138,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602258972511">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602259679562">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602258972511" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602259679562" />
   </component>
 </project>
