@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Task: About this site nav bar included">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Task and Feature: both image and information (about-me) included on about this site page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="title-header-bg-aboutthissite" />
+        <entry key="$PROJECT_DIR$" value="nav-bar-aboutthissite" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="12184000" />
+      <workItem from="1602195415281" duration="12578000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Commit to master">
       <created>1602196279692</created>
@@ -251,14 +249,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602268716471</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Task and Feature: both image and information (about-me) included on about this site page">
+      <created>1602269105380</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1602269105380</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feature: Title and Header included on index.html" />
     <MESSAGE value="Feature: CSS custom style file included(w/o details)" />
     <MESSAGE value="Feature: CSS custom style file information code details included" />
     <MESSAGE value="Tasks: Images relate to this project included in images folder" />
@@ -283,7 +287,8 @@
     <MESSAGE value="Feature: About this site blank webpage included" />
     <MESSAGE value="Feature: About this site header-title-bg included" />
     <MESSAGE value="Task: About this site nav bar included" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: About this site nav bar included" />
+    <MESSAGE value="Task and Feature: both image and information (about-me) included on about this site page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task and Feature: both image and information (about-me) included on about this site page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -294,9 +299,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602268718754">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602269107851">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602268718754" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602269107851" />
   </component>
 </project>
