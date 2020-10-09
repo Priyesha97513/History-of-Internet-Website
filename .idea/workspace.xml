@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Task and Feature: DNS image and source included on DNS webpage">
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature: DNS explanation included">
       <change beforePath="$PROJECT_DIR$/DNS.html" beforeDir="false" afterPath="$PROJECT_DIR$/DNS.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="bugfix-definition-DNS" />
+        <entry key="$PROJECT_DIR$" value="DNS-explanation-DNS" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="15217000" />
+      <workItem from="1602195415281" duration="15845000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Commit to master">
       <created>1602196279692</created>
@@ -328,14 +328,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602271990638</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Feature: DNS explanation included">
+      <created>1602272275908</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1602272275908</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feature: Domain-name-icann file header included" />
     <MESSAGE value="Task: Domain-name-icann navigation bar included" />
     <MESSAGE value="Task: Domain-name defination included" />
     <MESSAGE value="Feature: ICANN defination included on domainnamesicann html" />
@@ -360,7 +366,8 @@
     <MESSAGE value="Feature: DNS definition included in DNS page" />
     <MESSAGE value="BugFix: DNS definition fixed included in DNS page" />
     <MESSAGE value="Task and Feature: DNS image and source included on DNS webpage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task and Feature: DNS image and source included on DNS webpage" />
+    <MESSAGE value="Feature: DNS explanation included" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: DNS explanation included" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -371,9 +378,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602271993323">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602272278130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602271993323" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602272278130" />
   </component>
 </project>
