@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature: Domain-name-icann file included" />
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature: Domain-name-icann file header included">
+      <change beforePath="$PROJECT_DIR$/DomainNamesICANN.html" beforeDir="false" afterPath="$PROJECT_DIR$/DomainNamesICANN.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="domain-names-icann" />
+        <entry key="$PROJECT_DIR$" value="header-domain-name-icann" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="7299000" />
+      <workItem from="1602195415281" duration="7605000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Commit to master">
       <created>1602196279692</created>
@@ -151,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602261767828</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Feature: Domain-name-icann file header included">
+      <created>1602262081516</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602262081516</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +181,8 @@
     <MESSAGE value="Task: Jumbotron section included on index html file" />
     <MESSAGE value="Task: image and index page related script added" />
     <MESSAGE value="Feature: Domain-name-icann file included" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Domain-name-icann file included" />
+    <MESSAGE value="Feature: Domain-name-icann file header included" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Domain-name-icann file header included" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -183,9 +193,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602261770598">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602262083781">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602261770598" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602262083781" />
   </component>
 </project>
