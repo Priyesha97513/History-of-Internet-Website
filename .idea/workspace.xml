@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature: definitions included for w3c-html-css pg">
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature and Task: images along source and explanation; end image along with its source; an script source included on this w3chtmlcss page">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/W3ChtmlCSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/W3ChtmlCSS.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="definitions-wchtmlcss" />
+        <entry key="$PROJECT_DIR$" value="image-img-imgsrc-scriptsrc-w3chtmlcss" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,21 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="21905000" />
-    </task>
-    <task id="LOCAL-00016" summary="Feature: Domain-name-icann file header included">
-      <created>1602262081516</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1602262081516</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Task: Domain-name-icann navigation bar included">
-      <created>1602262259605</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1602262259605</updated>
+      <workItem from="1602195415281" duration="22638000" />
     </task>
     <task id="LOCAL-00018" summary="Task: Domain-name defination included">
       <created>1602262534214</created>
@@ -391,15 +378,27 @@
       <option name="project" value="LOCAL" />
       <updated>1602278553918</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="BugFix: definitions error fixed for w3c-html-css pg">
+      <created>1602278961802</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1602278961802</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Feature and Task: images along source and explanation; end image along with its source; an script source included on this w3chtmlcss page">
+      <created>1602279252065</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1602279252065</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task and Feature: DNS image and source included on DNS webpage" />
-    <MESSAGE value="Feature: DNS explanation included" />
     <MESSAGE value="BugFix: DNS explanation corrected" />
     <MESSAGE value="Feature and task: image,img-src, and script source included for DNS" />
     <MESSAGE value="Feature: DNS webpage included" />
@@ -423,7 +422,9 @@
     <MESSAGE value="Feature: header,title,bg included for w3c-html-css pg" />
     <MESSAGE value="Task: nav-bar included for w3c-html-css pg" />
     <MESSAGE value="Feature: definitions included for w3c-html-css pg" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: definitions included for w3c-html-css pg" />
+    <MESSAGE value="BugFix: definitions error fixed for w3c-html-css pg" />
+    <MESSAGE value="Feature and Task: images along source and explanation; end image along with its source; an script source included on this w3chtmlcss page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature and Task: images along source and explanation; end image along with its source; an script source included on this w3chtmlcss page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -434,9 +435,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602278555686">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602279296425">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602278555686" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602279296425" />
   </component>
 </project>
