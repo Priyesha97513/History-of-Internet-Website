@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="BugFix: image fixed center for w3chtmlcss pg">
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="BugFix: Title changed on readme file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="image-img-imgsrc-scriptsrc-w3chtmlcss" />
+        <entry key="$PROJECT_DIR$" value="bugfix-imagecenter-htmlcssw3c" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,13 +66,7 @@
       <updated>1602195385835</updated>
       <workItem from="1602195415281" duration="24526000" />
       <workItem from="1602282006050" duration="12000" />
-    </task>
-    <task id="LOCAL-00019" summary="Feature: ICANN defination included on domainnamesicann html">
-      <created>1602263332867</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1602263332867</updated>
+      <workItem from="1602290631967" duration="692000" />
     </task>
     <task id="LOCAL-00020" summary="Task: image included within paragraphs for domainnamesicann html">
       <created>1602263572008</created>
@@ -392,14 +404,31 @@
       <option name="project" value="LOCAL" />
       <updated>1602279739567</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="BugFix: Title changed on readme file">
+      <created>1602290802332</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1602290802333</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Feature and task: image,img-src, and script source included for DNS" />
     <MESSAGE value="Feature: DNS webpage included" />
     <MESSAGE value="Feature: title,header,and bg included for http/https page" />
     <MESSAGE value="Task: nav-bar included on http/s included" />
@@ -424,7 +453,8 @@
     <MESSAGE value="BugFix: definitions error fixed for w3c-html-css pg" />
     <MESSAGE value="Feature and Task: images along source and explanation; end image along with its source; an script source included on this w3chtmlcss page" />
     <MESSAGE value="BugFix: image fixed center for w3chtmlcss pg" />
-    <option name="LAST_COMMIT_MESSAGE" value="BugFix: image fixed center for w3chtmlcss pg" />
+    <MESSAGE value="BugFix: Title changed on readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="BugFix: Title changed on readme file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -435,9 +465,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602280077811">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602290812753">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602280077811" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602290812753" />
   </component>
 </project>
