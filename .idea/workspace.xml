@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="Feature and Task: images along source and explanation; end image along with its source; an script source included on this w3chtmlcss page">
+    <list default="true" id="801983aa-146e-4520-9524-cc5eec08e14d" name="Default Changelist" comment="BugFix: image fixed center for w3chtmlcss pg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3ChtmlCSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/W3ChtmlCSS.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +46,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602195385835</updated>
-      <workItem from="1602195415281" duration="22638000" />
-    </task>
-    <task id="LOCAL-00018" summary="Task: Domain-name defination included">
-      <created>1602262534214</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1602262534214</updated>
+      <workItem from="1602195415281" duration="24526000" />
+      <workItem from="1602282006050" duration="12000" />
     </task>
     <task id="LOCAL-00019" summary="Feature: ICANN defination included on domainnamesicann html">
       <created>1602263332867</created>
@@ -392,14 +385,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602279252065</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="BugFix: image fixed center for w3chtmlcss pg">
+      <created>1602279739564</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1602279739567</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BugFix: DNS explanation corrected" />
     <MESSAGE value="Feature and task: image,img-src, and script source included for DNS" />
     <MESSAGE value="Feature: DNS webpage included" />
     <MESSAGE value="Feature: title,header,and bg included for http/https page" />
@@ -424,7 +423,8 @@
     <MESSAGE value="Feature: definitions included for w3c-html-css pg" />
     <MESSAGE value="BugFix: definitions error fixed for w3c-html-css pg" />
     <MESSAGE value="Feature and Task: images along source and explanation; end image along with its source; an script source included on this w3chtmlcss page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature and Task: images along source and explanation; end image along with its source; an script source included on this w3chtmlcss page" />
+    <MESSAGE value="BugFix: image fixed center for w3chtmlcss pg" />
+    <option name="LAST_COMMIT_MESSAGE" value="BugFix: image fixed center for w3chtmlcss pg" />
   </component>
   <component name="WindowStateProjectService">
     <state x="515" y="261" key="Github.ShareDialog" timestamp="1602196035824">
@@ -435,9 +435,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602196118608" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602279296425">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602280077811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602279296425" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602280077811" />
   </component>
 </project>
